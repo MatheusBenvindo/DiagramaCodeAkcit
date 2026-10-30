@@ -1,3 +1,12 @@
+<!-- course-navigation:start -->
+<p>
+  <a href="https://github.com/MatheusBenvindo/MatheusBenvindo/blob/main/CURSOS.md#engenharia-e-akcit"><img alt="Índice de materiais" src="https://img.shields.io/badge/MATERIAIS-Engenharia%20e%20AKCIT-005DAA?style=flat-square" /></a>
+</p>
+
+[← Catálogo de cursos e projetos](https://github.com/MatheusBenvindo/MatheusBenvindo/blob/main/CURSOS.md) · [Perfil](https://github.com/MatheusBenvindo)
+
+<!-- course-navigation:end -->
+
 # Sistema de Rastreamento e Categorização de Despesas
 
 ## Escopo e objetivo
@@ -121,3 +130,11 @@ Para que um agente autônomo produza o código-fonte completo com fidelidade, ai
 - fluxos de fallback quando Telegram, Shortcuts, backend ou Google Sheets estiverem indisponíveis;
 - requisitos de observabilidade, retenção de logs, proteção de segredos e ambientes de execução;
 - critérios de aceitação e exemplos de testes para registros válidos, inválidos, duplicados e parcialmente processados.
+
+
+## Navegação dos materiais
+
+| Pasta ou arquivo | Acesso |
+|---|---|
+
+
